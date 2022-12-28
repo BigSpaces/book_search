@@ -9,7 +9,7 @@ defmodule BookSearch.Authors do
   alias BookSearch.Authors.Author
 
   @doc """
-  Returns the list of authors.
+  Returns the list oof authors.
 
   ## Examples
 
